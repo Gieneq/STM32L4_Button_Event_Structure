@@ -1,8 +1,9 @@
+# About
+
 <p align="center">
   <img src="https://github.com/Gieneq/STM32L4_Button_Event_Structure/blob/main/img/stm32l4_board_1.png" alt="STM32L4 Board with LEDs" width="500">
 </p>
 
-# About
 Simple structure based C code used to detect button actions like:
 - press,
 - longpress,
